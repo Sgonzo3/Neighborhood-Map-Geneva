@@ -1,4 +1,5 @@
 # Neightborhood Map: Geneva
+Single-page application displaying a map and interactive list of locations in Geneva, Switzerland, created as the final project for Udacity’s Front-End Web Developer Nanodegree
 
 ## Instructions
 ### Setup
